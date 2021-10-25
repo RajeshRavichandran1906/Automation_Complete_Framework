@@ -1,0 +1,37 @@
+[DEFAULT]
+
+[MONDAY]
+P292 = HEAD
+P215 = HEAD
+P400 = HEAD
+P116 = 82xx
+P312 = 82xx
+
+[TUESDAY]
+P292 = HEAD, 82xx
+P215 = HEAD, 82xx
+P400 = HEAD, 82xx 
+
+[WEDNESDAY]
+P292 = HEAD
+P215 = HEAD
+P400 = HEAD
+P276 = 82xx
+P278 = 82xx
+P251 = 82xx
+
+[THURSDAY]
+P292 = HEAD, 82xx
+P215 = HEAD, 82xx
+P400 = HEAD, 82xx
+
+[FRIDAY]
+P292 = 82xx_cdr
+P215 = 82xx_cdr
+P400 = 82xx_cdr
+P116 = 82xx_cdr
+P312 = 82xx_cdr
+P95 = 82xx_cdr
+P276 = 82xx_cdr
+P251 = 82xx_cdr
+P278 = 82xx_cdr

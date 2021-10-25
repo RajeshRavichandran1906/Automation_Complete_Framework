@@ -1,0 +1,23 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autoadmuser58
+mrpass 
+mridbas autobasuser61
+mrpassbas 
+mridadv autoadvuser58
+mrpassadv 
+mriddev autodevuser202
+mrpassdev 
+clientid bigscm23
+browser chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S19901
+group_id G514402
+group_name Using Navigation #2	
+suite_type page_designer

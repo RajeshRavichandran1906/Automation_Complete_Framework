@@ -1,0 +1,14 @@
+httpport 8080
+wfcontext /ibi_apps
+bipass admin
+nodeid bigscm64
+security none
+wfalias /ibi_html
+beginsection qtpdata
+startupbegin Welcome
+deflogin NONE
+edaservelogin No
+welcomelink NONE
+startupend WelcomeNoLaunch
+biuserid admin
+endsection qtpdata

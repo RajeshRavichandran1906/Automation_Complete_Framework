@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 12510
+wfcontext /ibi_apps
+mrid autodevuser40
+mrpass
+browser chrome
+project_id P292
+suite_id S28313
+group_id G671827
+group_name Sparkline KPI Extension
+suite_type designer_chart

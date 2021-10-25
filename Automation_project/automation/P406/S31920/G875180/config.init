@@ -1,0 +1,15 @@
+nodeid unxrh7
+httpport 12500
+wfcontext /ibi_apps
+mridadm autoadmuser59
+mrpassadm
+mriddev autodevuser204
+mrpassdev
+mridadv autoadvuser59
+mrpassadv
+mridbas autobasuser63
+mrpassbas
+browser Chrome
+project_id P406
+suite_id S31920
+group_id G875180

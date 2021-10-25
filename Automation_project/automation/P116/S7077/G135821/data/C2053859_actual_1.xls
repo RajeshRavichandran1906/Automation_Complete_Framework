@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="LL0000"><NumberFormat ss:Format="0"/></Style>
+<Style ss:ID="D7"><NumberFormat ss:Format="#,##0"/></Style>
+<Style ss:ID="LL0001"><NumberFormat ss:Format="0"/></Style>
+<Style ss:ID="LL0002"><NumberFormat ss:Format="0"/></Style>
+<Style ss:ID="I6"><NumberFormat ss:Format="0"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="19" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+<Cell><Data ss:Type="String">DEALER_COST</Data></Cell>
+<Cell><Data ss:Type="String">Raw DCOST</Data></Cell>
+<Cell><Data ss:Type="String">RETAIL_COST</Data></Cell>
+<Cell><Data ss:Type="String">Raw RCOST</Data></Cell>
+<Cell><Data ss:Type="String">SALES</Data></Cell>
+<Cell><Data ss:Type="String">Raw SALES</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">7427</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">7427</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">8878</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">8878</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">11194</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">11194</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">13491</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">13491</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">12000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">14940</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">14940</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">17850</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">17850</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">4292</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">4292</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">5100</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5100</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">FRANCE</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">4631</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">4631</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">5610</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5610</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">4915</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">4915</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">5925</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5925</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">4800</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">4800</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">5660</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5660</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">6820</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">6820</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">12400</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">12400</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">5660</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5660</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">6820</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">6820</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">13000</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">13000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">25000</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">25000</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">31500</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">31500</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">2626</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">2626</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">3139</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">3139</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">43000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">2886</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">2886</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">3339</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">3339</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">35030</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">5063</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5063</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">5970</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5970</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">7800</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">7800</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">5800</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5800</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">5940</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5940</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">8950</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">8950</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">6000</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">6000</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">6355</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">6355</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">8900</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">8900</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">10000</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">10000</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">13752</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">13752</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">14000</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">14000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">11000</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">11000</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">14123</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">14123</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">18940</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">18940</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">8300</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">8300</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">9097</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">9097</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">14000</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">14000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="LL0000"><Data ss:Type="Number">8400</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">8400</Data></Cell>
+<Cell ss:StyleID="LL0001"><Data ss:Type="Number">9495</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">9495</Data></Cell>
+<Cell ss:StyleID="LL0002"><Data ss:Type="Number">15600</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">15600</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

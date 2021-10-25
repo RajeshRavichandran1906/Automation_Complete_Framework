@@ -1,0 +1,47 @@
+{
+	"project":{
+			"P215": "00 Smoke Testing and Exploratory Testing"
+			},
+	"suite":{
+			"S20063": "8205 New Features and product changes for existing functionality"
+			},
+	"section":{
+			"G680460": "Designer/IA smoke tests"
+			},
+	"cases":{
+	        "C8320662": "Launch Designer chart, save and restore",
+            "C8320666": "Launch Reporting Object, save and restore",
+            "C8320667": "Launch MyReport, save and restore",
+            "C8320670": "Open an existing Designer Chart FEX",
+            "C8320683": "Launch Designer workbook, save and restore",
+            "C8320684": "Launch IA Chart, save and restore",
+            "C8320685": "Launch IA Report, save and restore",
+            "C8320904": "Open an existing InfoAssist Chart FEX",
+            "C8320905": "Launch Designer Workbook based on Reporting Object"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000", 
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

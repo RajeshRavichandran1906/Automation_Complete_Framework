@@ -1,0 +1,11 @@
+stting=html
+test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Start_PortalDesigner
+test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Create_BIP_Layout_Portal
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Check_defaults_portal_page
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Layout_Button_defaults
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Single_Area_Layout_Column_Panel
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Single_Area_Layout_Column_Accordion
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Single_Area_Layout_Column_Tabbed
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_One_Column_Layout_Column
+;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Two_Coulmns_Layout
+;;test=functional\webfocus\wfmr\wfbip8104_local\BIP_Layout_Tab_suite\Test_Three_Coulmns_Layout

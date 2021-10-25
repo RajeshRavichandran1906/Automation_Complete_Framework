@@ -1,0 +1,82 @@
+<FindBugsFilter>
+
+<!-- Completely ignore these Bug Patterns -->
+
+   <Match><Bug code="Nm,EI,EI2,UrF,DLS" /></Match>
+
+    
+   <Match><Bug code="BED" /></Match>
+   <Match><Bug code="CLI" /></Match>
+   <Match><Bug code="CN" /></Match>
+   <Match><Bug code="DE" /></Match>
+   <Match><Bug code="HE" /></Match>
+   <Match><Bug pattern="BAS_BLOATED_ASSIGNMENT_SCOPE" /></Match>
+   <Match><Bug pattern="BL_BURYING_LOGIC" /></Match>  
+   <Match><Bug pattern="CBX_CUSTOM_BUILT_XML" /></Match>
+   <Match><Bug pattern="CC_CYCLOMATIC_COMPLEXITY" /></Match>
+   <Match><Bug pattern="CD_CIRCULAR_DEPENDENCY" /></Match>
+   <Match><Bug pattern="CLI_CONSTANT_LIST_INDEX"/> </Match>   
+   <Match><Bug pattern="CN_IMPLEMENTS_CLONE_BUT_NOT_CLONEABLE" /></Match>
+   <Match><Bug pattern="CU_CLONE_USABILITY_THROWS" /></Match>
+   <Match><Bug pattern="DE_MIGHT_IGNORE" /></Match>   
+   <Match><Bug pattern="DM_DEFAULT_ENCODING" /></Match>
+   <Match><Bug pattern="DM_NUMBER_CTOR"/><Package name="org.apache.*"/></Match>
+   <Match><Bug pattern="EI_EXPOSE_STATIC_REP2"/> </Match>
+   <Match><Bug pattern="EXS_EXCEPTION_SOFTENING_HAS_CHECKED"/></Match>
+   <Match><Bug pattern="EXS_EXCEPTION_SOFTENING_NO_CHECKED"/></Match>      
+   <Match><Bug pattern="EXS_EXCEPTION_SOFTENING_NO_CONSTRAINTS" /></Match>
+   <Match><Bug pattern="EXS_EXCEPTION_SOFTENING_RETURN_FALSE"/></Match>   
+   <Match><Bug pattern="FCBL_FIELD_COULD_BE_LOCAL" /></Match>
+   <Match><Bug pattern="FCCD_FIND_CLASS_CIRCULAR_DEPENDENCY" /></Match>  
+   <Match><Bug pattern="HE_EQUALS_USE_HASHCODE"/></Match>
+   <Match><Bug pattern="ISB_TOSTRING_APPENDING" /></Match>
+   <Match><Bug pattern="ITU_INAPPROPRIATE_TOSTRING_USE"/></Match>
+   <Match><Bug pattern="LEST_LOST_EXCEPTION_STACK_TRACE" /></Match>
+   <Match><Bug pattern="LO_STUTTERED_MESSAGE" /></Match> 
+   <Match><Bug pattern="LO_SUSPECT_LOG_CLASS" /></Match>
+   <Match><Bug pattern="LSC_LITERAL_STRING_COMPARISON"/></Match>
+   <Match><Bug pattern="MDM_STRING_BYTES_ENCODING" /></Match>
+   <Match><Bug pattern="MOM_MISLEADING_OVERLOAD_MODEL" /></Match>
+   <Match><Bug pattern="MRC_METHOD_RETURNS_CONSTANT"/></Match>   
+   <Match><Bug pattern="MS_EXPOSE_REP"/><Package name="com.*"/></Match>
+   <Match><Bug pattern="MS_EXPOSE_REP"/><Package name="ibi.*"/></Match>
+   <Match><Bug pattern="MS_EXPOSE_REP"/><Package name="org.*"/></Match>
+   <Match><Bug pattern="MS_MUTABLE_ARRAY" /></Match>
+   <Match><Bug pattern="MS_PKGPROTECT" /></Match>
+   <Match><Bug pattern="NCMU_NON_COLLECTION_METHOD_USE"/></Match>   
+   <Match><Bug pattern="NFF_NON_FUNCTIONAL_FIELD" /></Match>
+   <Match><Bug pattern="NM_CLASS_NAMING_CONVENTION" /></Match>
+   <Match><Bug pattern="NM_FIELD_NAMING_CONVENTION" /></Match>
+   <Match><Bug pattern="NM_METHOD_NAMING_CONVENTION" /></Match>
+   <Match><Bug pattern="NM_SAME_SIMPLE_NAME_AS_SUPERCLASS" /></Match>
+   <Match><Bug pattern="NM_VERY_CONFUSING_INTENTIONAL" /></Match>
+   <Match><Bug pattern="NM_VERY_CONFUSING" /></Match>
+   <Match><Bug pattern="OCP_OVERLY_CONCRETE_PARAMETER"/></Match>
+   <Match><Bug pattern="PCOA_PARTIALLY_CONSTRUCTED_OBJECT_ACCESS" /></Match>
+   <Match><Bug pattern="PDP_POORLY_DEFINED_PARAMETER" /></Match>
+   <Match><Bug pattern="PL_PARALLEL_LISTS" /></Match>
+   <Match><Bug pattern="PMB_POSSIBLE_MEMORY_BLOAT" /></Match>
+   <Match><Bug pattern="PRMC_POSSIBLY_REDUNDANT_METHOD_CALLS"/></Match>   
+   <Match><Bug pattern="S508C_NO_SETLABELFOR" /></Match>
+   <Match><Bug pattern="S508C_NO_SETSIZE" /></Match>
+   <Match><Bug pattern="S508C_SET_COMP_COLOR" /></Match>
+   <Match><Bug pattern="SEO_SUBOPTIMAL_EXPRESSION_ORDER" /></Match>
+   <Match><Bug pattern="SE_BAD_FIELD" /></Match>
+   <Match><Bug pattern="SF_SWITCH_NO_DEFAULT" /></Match>   
+   <Match><Bug pattern="SMII_STATIC_METHOD_INSTANCE_INVOCATION" /></Match>
+   <Match><Bug pattern="SPP_DOUBLE_APPENDED_LITERALS" /></Match>
+   <Match><Bug pattern="SPP_TEMPORARY_TRIM" /></Match>
+   <Match><Bug pattern="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" /></Match>
+   <Match><Bug pattern="USBR_UNNECESSARY_STORE_BEFORE_RETURN" /></Match>
+   <Match><Bug pattern="XSS_JSP_PRINT"/></Match><!-- Completely ignore these packages -->
+   <Match><Package name="~.*"/><Bug pattern="NP_LOAD_OF_KNOWN_NULL_VALUE" /></Match>
+   <Match><Package name="~.*\.testing" /></Match>
+   <Match><Package name="~.*\.testing\.*" /></Match>
+   <Match><Package name="~.*\.Testing\.*" /></Match>
+   <Match><Package name="~.*\.test" /></Match>
+   <Match><Package name="~.*\.test\.*" /></Match>
+   <Match><Package name="~.*\.Test\.*" /></Match>
+	
+   <Match> <Class name="org.eclipse.persistence.sessions.DatasourceLogin"/> <Bug pattern="NP_NONNULL_PARAM_VIOLATION"/> </Match>
+
+</FindBugsFilter>

@@ -1,0 +1,10 @@
+nodeid unxrh7
+httpport 50664
+wfcontext /ibi_apps
+mriddev autodevuser13
+mrpassdev
+browser chrome
+project_id P452
+suite_id S31923
+group_id G875086
+workspace_folder P452_S31923/G875086

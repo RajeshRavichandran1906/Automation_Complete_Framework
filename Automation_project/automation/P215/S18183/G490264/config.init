@@ -1,0 +1,19 @@
+pkgname wf052118a
+confid 486
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid admin
+mrpass 
+mrid_bas autobasuser06
+mrid_adv autoadvuser03
+mrid_dev autodevuser78
+mr_pass
+clientid bigscm23
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P413
+suite_id S18040
+suite_type Infographic

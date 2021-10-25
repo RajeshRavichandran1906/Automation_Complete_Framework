@@ -1,0 +1,17 @@
+pkgname wf122619a
+nodeid unxrh7
+httpport 12500
+wfcontext /ibi_apps
+browser chrome
+mrid autocloud01@ibi.com
+mrpass adminpassword
+email_id autocloud01@ibi.com
+first_name AutoCloud01
+invite_user1_first_name AutoCloud03
+invite_user1_last_name IBIQA
+invite_user1_email autocloud03@ibi.com
+invite_user2_first_name AutoCloud04
+invite_user2_last_name IBIQA
+invite_user2_email autocloud04@ibi.com
+instance_type test
+cloud_provider azure

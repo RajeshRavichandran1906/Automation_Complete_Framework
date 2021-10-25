@@ -1,0 +1,15 @@
+nodeid unxrh7
+httpport 12500
+wfcontext /ibi_apps
+mradmid autoadmuser59
+mradmpass
+mrdevid autodevuser204
+mrdevpass 
+mradvid autoadvuser59
+mradvpass
+mrbasid autobasuser63
+mrbaspass
+browser firefox
+project_id P406
+suite_id S31920
+group_id G784912

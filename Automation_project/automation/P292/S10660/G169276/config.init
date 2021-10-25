@@ -1,0 +1,14 @@
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autodevuser40
+mrpass 
+clientid bigscm23
+browser Firefox
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10660
+group_id G169276
+suite_type homepage

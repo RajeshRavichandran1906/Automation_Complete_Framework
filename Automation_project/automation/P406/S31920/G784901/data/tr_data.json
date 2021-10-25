@@ -1,0 +1,39 @@
+{
+	"project":{
+			"P406": "WebFOCUS Home Page"
+			},
+	"suite":{
+			"S31920": "8207 (Paris) New Features and product changes for Home Page"
+			},
+	"section":{
+			"G784901": "Home Page Areas"
+			},
+	"cases":{
+	        "C9926779": "My Workspace and Shared with Me"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000",
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

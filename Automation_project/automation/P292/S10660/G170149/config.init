@@ -1,0 +1,20 @@
+pkgname wf052118a
+confid 486
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autoadmuser02
+mrpass 
+mridadm pwd_adm01
+mrpassadm password
+mridadmnew pwd_adm01
+mrpassadmnew password1
+mrnewpass new
+clientid bigscm23
+browser firefox
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10660
+suite_type homepage 

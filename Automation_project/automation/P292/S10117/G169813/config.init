@@ -1,0 +1,22 @@
+pkgname wf053116b
+confid 486
+nodeid wfinst01
+httpport 8080
+wfcontext /ibi_apps
+mrid admin
+mrpass admin
+mrid01 basicuser
+mrpass01 
+mrid02 advanceduser
+mrpass02
+mrid03 autodevuser43
+mrpass03 
+mrid04 groupadminuser
+mrpass04
+clientid bigscm23
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292_S10117_G169813
+suite_id S10117

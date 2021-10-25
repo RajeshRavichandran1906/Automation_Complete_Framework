@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2019-04-25T15:13:53.932Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="xlHARight"><Alignment ss:Horizontal="Right"/></Style>
+<Style ss:ID="xlHACenter"><Alignment ss:Horizontal="Center"/></Style>
+,<Style ss:ID="I6"><NumberFormat ss:Format="0"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+<Cell><Data ss:Type="String">SALES</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">12000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">FRANCE</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">30200</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">78030</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">88190</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,25 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 11964
+wfcontext /ibi_apps
+mrid autoadmuser10
+mrpass 
+mridbas autobasuser60
+mrpassbas 
+mridadv autoadvuser57
+mrpassadv 
+mriddev autodevuser88
+mrpassdev 
+mridgadmin autogadmuser01
+mrpassgadmin 
+clientid bigscm23
+browser chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S19901
+group_id G513445
+group_name Favorites Side bar
+suite_type homepage

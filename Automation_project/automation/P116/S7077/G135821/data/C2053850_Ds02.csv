@@ -1,0 +1,20 @@
+"Category","Product ID","Product","State","Unit Sales","Dollar Sales"
+"Coffee","C141","Espresso","IL",32237,420439
+"Coffee","C141","Espresso","MA",19698,248356
+"Coffee","C142","Latte","IL",77344,978340
+"Coffee","C142","Latte","MA",74572,917737
+"Coffee","C144","Capuccino","MA",15358,174344
+"Food","F101","Scone","IL",45355,595069
+"Food","F101","Scone","MA",25363,332486
+"Food","F102","Biscotti","IL",29413,378412
+"Food","F102","Biscotti","MA",47064,570391
+"Food","F103","Croissant","IL",43300,549366
+"Food","F103","Croissant","MA",41029,497234
+"Gifts","G100","Mug","IL",30157,376754
+"Gifts","G100","Mug","MA",32360,401944
+"Gifts","G104","Thermos","IL",14651,187901
+"Gifts","G104","Thermos","MA",16734,203435
+"Gifts","G110","Coffee Grinder","IL",19339,233292
+"Gifts","G110","Coffee Grinder","MA",14382,177940
+"Gifts","G121","Coffee Pot","IL",15785,204828
+"Gifts","G121","Coffee Pot","MA",15349,184119

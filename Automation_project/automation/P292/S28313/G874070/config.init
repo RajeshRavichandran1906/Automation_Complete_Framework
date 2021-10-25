@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autobasuser08
+mrpass
+browser firefox
+project_id P292
+suite_id S28313
+group_id G874069
+group_name Admin User
+suite_type homepage

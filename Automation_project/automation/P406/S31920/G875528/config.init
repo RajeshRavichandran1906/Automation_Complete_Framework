@@ -1,0 +1,6 @@
+nodeid wfautoqa08.pool1.dev-aws.ibi.com
+httpport 
+wfcontext /webfocus
+mridauth autocloudauth15@ibi.com
+mrpassauth
+browser chrome

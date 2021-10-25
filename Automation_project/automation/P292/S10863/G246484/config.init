@@ -1,0 +1,10 @@
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autoadmuser08
+mrpass
+browser chrome
+project_id P292
+suite_id S10863
+group_id G246484
+suite_type homepage

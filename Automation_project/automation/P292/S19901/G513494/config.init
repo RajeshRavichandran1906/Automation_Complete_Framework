@@ -1,0 +1,15 @@
+pkgname wf053116b
+confid 795
+nodeid unxrh7
+httpport 51364
+wfcontext /ibi_apps
+mrid autodevuser95
+mrpass 
+clientid bigscm23
+browser Chrome
+suite_id S9100_ToolTips
+local_enviroment localhost
+envpath unxrh7_frame
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+

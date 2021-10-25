@@ -1,0 +1,230 @@
+
+<!--type 13--><tbody><tr>
+<td colspan="4">
+<table style="padding:0; width=100%" class="grid0"><tbody><tr>
+<td>
+PAGE     1</td></tr></tbody></table></td>
+</tr>
+<!--type 2--><tr>
+<td nowrap="" style="vertical-align:bottom" abbr="4,'By'">
+
+<table>
+<tbody><tr><td>
+<img measurenumber="4" name="OlapImage" /javaassist/images/olap/skins/neutral/olap_blue_box.gif" imagetype="By" title="COUNTRY" oncontextmenu="tdOnMouseOverImg(4,&quot;By&quot;);" onclick="tdOnMouseClickImg(4,&quot;By&quot;,event);" align="left" border="0" height="17" valign="bottom" width="17">
+</td>
+<td>COUNTRY</td>
+</tr>
+</tbody></table>
+</td>
+<td nowrap="" align="RIGHT" style="vertical-align:bottom" abbr="1,'Measure'">
+
+<table>
+<tbody><tr><td>
+<img measurenumber="1" name="OlapImage" /javaassist/images/olap/skins/neutral/olap_arrow_dim_large.gif" imagetype="DimMap" title="sort DEALER_COST" oncontextmenu="tdOnMouseOverImg(1,&quot;DimMap&quot;);" onclick="tdOnMouseClickImg(1,&quot;DimMap&quot;,event);" align="left" border="0" height="17" valign="bottom" width="17">
+</td>
+<td>DEALER_COST</td>
+</tr>
+</tbody></table>
+</td>
+<td nowrap="" align="RIGHT" style="vertical-align:bottom" abbr="2,'Measure'">
+
+<table>
+<tbody><tr><td>
+<img measurenumber="2" name="OlapImage" /javaassist/images/olap/skins/neutral/olap_arrow_dim_large.gif" imagetype="DimMap" title="sort RETAIL_COST" oncontextmenu="tdOnMouseOverImg(2,&quot;DimMap&quot;);" onclick="tdOnMouseClickImg(2,&quot;DimMap&quot;,event);" align="left" border="0" height="17" valign="bottom" width="17">
+</td>
+<td>RETAIL_COST</td>
+</tr>
+</tbody></table>
+</td>
+<td nowrap="" align="RIGHT" style="vertical-align:bottom" abbr="3,'Measure'">
+
+<table>
+<tbody><tr><td>
+<img measurenumber="3" name="OlapImage" /javaassist/images/olap/skins/neutral/olap_arrow_dim_large.gif" imagetype="DimMap" title="sort SALES" oncontextmenu="tdOnMouseOverImg(3,&quot;DimMap&quot;);" onclick="tdOnMouseClickImg(3,&quot;DimMap&quot;,event);" align="left" border="0" height="17" valign="bottom" width="17">
+</td>
+<td>SALES</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<!--type 1--><tr>
+<td>
+ENGLAND</td>
+<td align="RIGHT">
+7,427</td>
+<td align="RIGHT">
+8,878</td>
+<td align="RIGHT">
+0</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+11,194</td>
+<td align="RIGHT">
+13,491</td>
+<td align="RIGHT">
+12000</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+14,940</td>
+<td align="RIGHT">
+17,850</td>
+<td align="RIGHT">
+0</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+4,292</td>
+<td align="RIGHT">
+5,100</td>
+<td align="RIGHT">
+0</td>
+</tr>
+<tr>
+<td>
+FRANCE</td>
+<td align="RIGHT">
+4,631</td>
+<td align="RIGHT">
+5,610</td>
+<td align="RIGHT">
+0</td>
+</tr>
+<tr>
+<td>
+ITALY</td>
+<td align="RIGHT">
+4,915</td>
+<td align="RIGHT">
+5,925</td>
+<td align="RIGHT">
+4800</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+5,660</td>
+<td align="RIGHT">
+6,820</td>
+<td align="RIGHT">
+12400</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+5,660</td>
+<td align="RIGHT">
+6,820</td>
+<td align="RIGHT">
+13000</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+25,000</td>
+<td align="RIGHT">
+31,500</td>
+<td align="RIGHT">
+0</td>
+</tr>
+<tr>
+<td>
+JAPAN</td>
+<td align="RIGHT">
+2,626</td>
+<td align="RIGHT">
+3,139</td>
+<td align="RIGHT">
+43000</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+2,886</td>
+<td align="RIGHT">
+3,339</td>
+<td align="RIGHT">
+35030</td>
+</tr>
+<tr>
+<td>
+W GERMANY</td>
+<td align="RIGHT">
+5,063</td>
+<td align="RIGHT">
+5,970</td>
+<td align="RIGHT">
+7800</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+5,800</td>
+<td align="RIGHT">
+5,940</td>
+<td align="RIGHT">
+8950</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+6,000</td>
+<td align="RIGHT">
+6,355</td>
+<td align="RIGHT">
+8900</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+10,000</td>
+<td align="RIGHT">
+13,752</td>
+<td align="RIGHT">
+14000</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+11,000</td>
+<td align="RIGHT">
+14,123</td>
+<td align="RIGHT">
+18940</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+8,300</td>
+<td align="RIGHT">
+9,097</td>
+<td align="RIGHT">
+14000</td>
+</tr>
+<tr>
+<td>
+</td>
+<td align="RIGHT">
+8,400</td>
+<td align="RIGHT">
+9,495</td>
+<td align="RIGHT">
+15600</td>
+</tr>
+</tbody>

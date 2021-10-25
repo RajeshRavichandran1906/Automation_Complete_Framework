@@ -1,0 +1,58 @@
+
+                <!DOCTYPE html>
+                <html>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <style>
+                * {
+                box-sizing: border-box;
+                }
+                img, th{
+                width: 50%;
+                border: 1px solid gray;
+                }
+                table{
+                width:100%;
+                }
+                #time{
+                color: black;
+                }
+                </style>
+                <body>
+                <div><h1>C9929953</h1></div><div><h3>Test case credentials: {'autodevuser206': ''}</h3></div><div><hr/></div><div>
+            STEP 01 : Create new DF content with CAR using API call:
+    
+            http://machine:port/alias/designer?master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470&tool=framework
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_01.png' style='width:100%;' alt='C9929953_actual_image_01 image not able to found'/></div><div><hr/></div><div>
+            STEP 02 : Double click 'COUNTRY' , 'DEALER_COST'
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_02.png' style='width:100%;' alt='C9929953_actual_image_02 image not able to found'/></div><div><hr/></div><div>
+            STEP 03 : Drag and drop 'COUNTRY' to 'Drop a Filter or field here'
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_03.png' style='width:100%;' alt='C9929953_actual_image_03 image not able to found'/></div><div><hr/></div><div>
+            STEP 03 - Expected : Verify Country is added to Filter shelf
+        </div><div><table><tr><th>Expected Image</th><th>Actual Image</th></tr><table></div><div><img src='C9929953_expected_image_03-Expected.png' alt='C9929953_expected_image_03-Expected image not able to found'/><img src='C9929953_actual_image_03-Expected.png' alt='C9929953_actual_image_03-Expected image not able to found'/></div><div><hr/></div><div>
+            STEP 04 : Click on COUNTRY from Filter pane
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_04.png' style='width:100%;' alt='C9929953_actual_image_04 image not able to found'/></div><div><hr/></div><div>
+            STEP 04 - Expected : 
+        </div><div><table><tr><th>Expected Image</th><th>Actual Image</th></tr><table></div><div><img src='C9929953_expected_image_04-Expected.png' alt='C9929953_expected_image_04-Expected image not able to found'/><img src='C9929953_actual_image_04-Expected.png' alt='C9929953_actual_image_04-Expected image not able to found'/></div><div><hr/></div><div>
+            STEP 05 : Select England,Italy and Japan and click outside
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_05.png' style='width:100%;' alt='C9929953_actual_image_05 image not able to found'/></div><div><hr/></div><div>
+            STEP 05 - Expected : Verify Filter and canvas is updated
+        </div><div><table><tr><th>Expected Image</th><th>Actual Image</th></tr><table></div><div><img src='C9929953_expected_image_05-Expected.png' alt='C9929953_expected_image_05-Expected image not able to found'/><img src='C9929953_actual_image_05-Expected.png' alt='C9929953_actual_image_05-Expected image not able to found'/></div><div><hr/></div><div>
+            STEP 06 : Click Run in new window in the toolbar.
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_06.png' style='width:100%;' alt='C9929953_actual_image_06 image not able to found'/></div><div><hr/></div><div>
+            STEP 06 - Expected : 
+        </div><div><table><tr><th>Expected Image</th><th>Actual Image</th></tr><table></div><div><img src='C9929953_expected_image_06-Expected.png' alt='C9929953_expected_image_06-Expected image not able to found'/><img src='C9929953_actual_image_06-Expected.png' alt='C9929953_actual_image_06-Expected image not able to found'/></div><div><hr/></div><div>
+            STEP 07 : Close the Designer Preview.
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_07.png' style='width:100%;' alt='C9929953_actual_image_07 image not able to found'/></div><div><hr/></div><div>
+            STEP 08 : Click 'Save' enter 'C9929953_base' in Title and Click 'Save as' button.
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_08.png' style='width:100%;' alt='C9929953_actual_image_08 image not able to found'/></div><div><hr/></div><div>
+            STEP 09 : Logout using API:
+            http://machine:port/alias/service/wf_security_logout.jsp
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_09.png' style='width:100%;' alt='C9929953_actual_image_09 image not able to found'/></div><div><hr/></div><div>
+            STEP 10 : Restore C9929953_base fex using API:
+            http://machine.ibi.com:port/alias/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9929953.fex&startlocation=IBFS:/WFC/Repository/P215_S31921/G875470
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_10.png' style='width:100%;' alt='C9929953_actual_image_10 image not able to found'/></div><div><hr/></div><div>
+            STEP 10 - Expected :
+        </div><div><table><tr><th>Expected Image</th><th>Actual Image</th></tr><table></div><div><img src='C9929953_expected_image_10-Expected.png' alt='C9929953_expected_image_10-Expected image not able to found'/><img src='C9929953_actual_image_10-Expected.png' alt='C9929953_actual_image_10-Expected image not able to found'/></div><div><hr/></div><div>
+            STEP 11 : Logout using API:
+            http://machine:port/alias/service/wf_security_logout.jsp
+        </div><div><table><tr><th>Actual Image</th></tr><table></div><div><img src='C9929953_actual_image_11.png' style='width:100%;' alt='C9929953_actual_image_11 image not able to found'/></div><div id='time'>10/22/2021 09:26:58<div></body></html>

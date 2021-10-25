@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="D7"><NumberFormat ss:Format="#,##0"/></Style>
+<Style ss:ID="I6"><NumberFormat ss:Format="0"/></Style>
+<Style ss:ID="D12.2"><NumberFormat ss:Format="#,###.00"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="3" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+<Cell><Data ss:Type="String">RETAIL_COST</Data></Cell>
+<Cell><Data ss:Type="String">DEALER_COST</Data></Cell>
+<Cell><Data ss:Type="String">SALES</Data></Cell>
+<Cell><Data ss:Type="String">ABC</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">45319</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">37853</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-7466</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">FRANCE</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">5610</Data></Cell>
+<Cell ss:StyleID="D7"><Data ss:Type="Number">4631</Data></Cell>
+<Cell ss:StyleID="I6"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-979</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

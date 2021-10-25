@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autodevuser40
+mrpass 
+clientid bigscm23
+browser Chrome
+browser_driver D:\chromedriver.exe
+project_id P292
+suite_id S11397
+group_id G458333

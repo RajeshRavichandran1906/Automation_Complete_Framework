@@ -1,0 +1,21 @@
+nodeid unxrh7
+httpport 12650
+wfcontext /ibi_apps
+devuser1 scm_dev1
+devpass1 
+devuser2 scm_dev2
+devpass2 
+advuser scm_adv
+advpass
+basuser scm_bas
+baspass  
+gradmuser scm_gradm
+gradmpass 
+IBIRS_path IBFS:/WFC/Repository/P459_S33046_Val_API
+git_userid scmdev1
+git_pass IBIqascm1
+git_repro QA_Val_API
+git_repro_url https://github.com/scmdev1/QA_Val_API
+git_email scmdevone@gmail.com
+git_branch Branch_Val_API
+git_encrypted_pass [AES128I]2N6wMg32hyNITi%3SA5FcTNID%3D

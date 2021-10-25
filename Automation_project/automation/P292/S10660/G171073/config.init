@@ -1,0 +1,15 @@
+pkgname 
+confid 
+nodeid 
+httpport 
+wfcontext 
+mrid 
+mrpass 
+clientid 
+browser 
+browser_driver 
+repository_type 
+installdir 
+project_id 
+suite_id 
+suite_type 

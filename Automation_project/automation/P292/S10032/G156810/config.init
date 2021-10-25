@@ -1,0 +1,14 @@
+pkgname wf110516a
+confid 723
+nodeid unxrh7
+port 19164
+context /ibi_apps
+mrid autodevuser99
+mrpass 
+clientid unxrh7
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10032_as_esri_map

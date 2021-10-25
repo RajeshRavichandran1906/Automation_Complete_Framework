@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 51364
+wfcontext /ibi_apps
+mriddev autodevuser40
+mrpassdev
+clientid bigscm23
+browser Chrome
+project_id P292
+suite_id S10660
+group_id G169275
+suite_type homepage

@@ -1,0 +1,17 @@
+pkgname wf110516a
+confid 723
+nodeid unxrh7
+port 11264
+context /ibi_apps
+mrid autodevuser100
+mrpass 
+clientid unxrh7
+httpport 11264
+wfcontext /ibi_apps
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10032_as_esri_map
+domain_folder P292_S10660_G168819

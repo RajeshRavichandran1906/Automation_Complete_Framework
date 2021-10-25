@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="D12.5E"><NumberFormat ss:Format="0.00000E+00"/></Style>
+<Style ss:ID="D16.2C"><NumberFormat ss:Format="#,###.00"/></Style>
+<Style ss:ID="E16"><NumberFormat ss:Format="0.E+00"/></Style>
+<Style ss:ID="E16.2"><NumberFormat ss:Format="0.00E+00"/></Style>
+<Style ss:ID="F16.2C"><NumberFormat ss:Format="#.00"/></Style>
+<Style ss:ID="F16.2CE"><NumberFormat ss:Format="0.00E+00"/></Style>
+<Style ss:ID="P16.2C"><NumberFormat ss:Format="#.00"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="6" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+<Cell><Data ss:Type="String">SALES_D12.5E</Data></Cell>
+<Cell><Data ss:Type="String">SALES_D16.2C</Data></Cell>
+<Cell><Data ss:Type="String">SALES_E16</Data></Cell>
+<Cell><Data ss:Type="String">SALES_E16.2</Data></Cell>
+<Cell><Data ss:Type="String">SALES_F16.2C</Data></Cell>
+<Cell><Data ss:Type="String">SALES_F16.2CE</Data></Cell>
+<Cell><Data ss:Type="String">SALES_P16.2C</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D12.5E"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="D16.2C"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="E16"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="E16.2"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="F16.2C"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="F16.2CE"><Data ss:Type="Number">12000</Data></Cell>
+<Cell ss:StyleID="P16.2C"><Data ss:Type="Number">12000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">FRANCE</Data></Cell>
+<Cell ss:StyleID="D12.5E"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="D16.2C"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="E16"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="E16.2"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="F16.2C"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="F16.2CE"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="P16.2C"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="D12.5E"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="D16.2C"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="E16"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="E16.2"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="F16.2C"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="F16.2CE"><Data ss:Type="Number">30200</Data></Cell>
+<Cell ss:StyleID="P16.2C"><Data ss:Type="Number">30200</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="D12.5E"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="D16.2C"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="E16"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="E16.2"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="F16.2C"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="F16.2CE"><Data ss:Type="Number">78030</Data></Cell>
+<Cell ss:StyleID="P16.2C"><Data ss:Type="Number">78030</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.5E"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="D16.2C"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="E16"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="E16.2"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="F16.2C"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="F16.2CE"><Data ss:Type="Number">88190</Data></Cell>
+<Cell ss:StyleID="P16.2C"><Data ss:Type="Number">88190</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

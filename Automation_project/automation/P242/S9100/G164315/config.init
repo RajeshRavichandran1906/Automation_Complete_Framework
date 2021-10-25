@@ -1,0 +1,13 @@
+confid 795
+nodeid unxrh7
+httpport 50164
+wfcontext /ibi_apps
+mrid autodevuser91
+mrpass 
+mradmin admin
+mradminpass
+browser Firefox
+suite_id S9100_ToolTips
+local_enviroment localhost
+webfocus_environment unxrh7
+wf_folder_path Domains->P242_S9100_G167699

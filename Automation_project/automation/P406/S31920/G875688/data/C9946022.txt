@@ -1,0 +1,3 @@
+TABLE FILE retail_sales
+PRINT CITY
+END

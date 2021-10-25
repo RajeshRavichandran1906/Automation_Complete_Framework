@@ -1,0 +1,41 @@
+{
+	"project":{
+			"P23": "OLAP"
+			},
+	"suite":{
+			"S29954": "OLAP Smoke Test"
+			},
+	"section":{
+			"G730841": "Test Cases"
+			},
+	"cases":{
+	        "C8792264": "Verify Olap Control Button",
+            "C8792286": "Verify Olap Pane Top",
+            "C8792287": "Verify Olap Pane Bottom"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000",
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

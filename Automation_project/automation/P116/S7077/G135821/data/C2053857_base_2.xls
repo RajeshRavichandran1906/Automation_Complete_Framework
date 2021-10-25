@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="D12.2"><NumberFormat ss:Format="#,###.00"/></Style>
+<Style ss:ID="D12.2M"><NumberFormat ss:Format="$#,###.00"/></Style>
+<Style ss:ID="D12.2c"><NumberFormat ss:Format="#,##0.00"/></Style>
+<Style ss:ID="D12.2B"><NumberFormat ss:Format="#,##0.00"/></Style>
+<Style ss:ID="D12.2R"><NumberFormat ss:Format="#,##0.00"/></Style>
+<Style ss:ID="D12.2-"><NumberFormat ss:Format="#,###.00;#,###.00-"/></Style>
+<Style ss:ID="P12.2C"><NumberFormat ss:Format="#.00"/></Style>
+<Style ss:ID="F9.2B"><NumberFormat ss:Format="#,##0.00"/></Style>
+<Style ss:ID="I9R"><NumberFormat ss:Format="#,##0"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="19" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+default format</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+format M(Dol)</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+no commas</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+Brackets</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+CR symbol</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+trail minus</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+P12.2C</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+F9.2B</Data></Cell>
+<Cell><Data ss:Type="String">Negative
+I9R</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-7427.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-7427.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-7427</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-11194.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-11194.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-11194</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-14940.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-14940.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-14940</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-4292.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-4292.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-4292</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">FRANCE</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-4631.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-4631.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-4631</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-4915.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-4915.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-4915</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-5660.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-5660</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-5660.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-5660.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-5660</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">ITALY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-25000.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-25000.55078125</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-25000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-2626.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-2626.550048828</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-2626</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">JAPAN</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-2886.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-2886.550048828</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-2886</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-5063.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-5063.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-5063</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-5800.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-5800.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-5800</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-6000.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-6000.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-6000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-10000.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-10000.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-10000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-11000.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-11000.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-11000</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-8300.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-8300.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-8300</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+<Cell ss:StyleID="D12.2"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="D12.2M"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="D12.2c"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="D12.2B"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="D12.2R"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="D12.2-"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="P12.2C"><Data ss:Type="Number">-8400.55</Data></Cell>
+<Cell ss:StyleID="F9.2B"><Data ss:Type="Number">-8400.549804688</Data></Cell>
+<Cell ss:StyleID="I9R"><Data ss:Type="Number">-8400</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

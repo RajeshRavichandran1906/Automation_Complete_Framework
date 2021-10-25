@@ -1,0 +1,41 @@
+{
+	"project":{
+			"P215": "00 Smoke Testing and Exploratory Testing"
+			},
+	"suite":{
+			"S29948": "8206 New Features and product changes for existing functionality"
+			},
+	"section":{
+			"G785032": "Upload Data"
+			},
+	"cases":{
+	        "C9336445": "Verify uploading EXCEL data in Designer Chart",
+	        "C9336560": "Verify uploading XML data in Designer Chart",
+	        "C9336561": "Verify uploading CSV data in Designer Report"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000",
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

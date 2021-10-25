@@ -1,0 +1,52 @@
+[DEFAULT]
+
+[EXPANDABLE NODE]
+Filters and Variables_0 = Filters and Variables
+Measure Groups_0 = Measure Groups
+Dimensions_0 = Dimensions
+Sales_0 = Measure Groups->Sales
+Shipments_0 = Measure Groups->Shipments
+Geography, Customer_0 = Filters and Variables->Geography, Customer
+Geography, Store_0 = Filters and Variables->Geography, Store
+Sales_Related_0 = Dimensions->Sales_Related
+Product_0 = Dimensions->Product
+Shipment_Related_0 = Dimensions->Shipment_Related
+Store_0 = Dimensions->Store
+Customer_0 = Dimensions->Customer
+Model_0 = Dimensions->Product->Model
+Model Details_0 = Dimensions->Product->Model->Model Details
+Customer, Postal Code Details_0 = Dimensions->Customer->Customer,Postal,Code->Customer, Postal Code Details
+
+[CHILD ELEMENTS]
+root_0 = ['Filters and Variables', 'Measure Groups', 'Dimensions']
+Filters and Variables_0 = ['Product Filter', 'Accessories', 'Discontinued', 'Store Name', 'Web Store', 'Store Front', 'Geography, Customer', 'Geography, Store']
+Measure Groups_0 = ['Sales', 'Shipments']
+Sales_0 = ['Revenue Per,Sq. Ft.', 'Revenue Local Per SQ. M.', 'Cost of Goods,Local Currency', 'Cost of Goods', 'Discount,Local Currency', 'Discount', 'Gross Profit,Local Currency', 'Gross Profit', 'MSRP,Local Currency', 'MSRP', 'Quantity,Sold', 'Revenue,Local Currency', 'Revenue', 'Sale Unit(s)']
+Shipments_0 = ['Days,Delayed', 'Shipment Unit(s)']
+Geography, Customer_0 = ['Customer,Continental,United States', 'Customer,European Union']
+Geography, Store_0 = ['Store,Continental,United States', 'Store,European Union']
+Dimensions_0 = ['Sales_Related', 'Product', 'Shipment_Related', 'Store', 'Customer']
+Sales_Related_0 = ['Transaction Date, Simple', 'Transaction Date, Components', 'Purchase']
+Product_0 = ['Product,Category', 'Product,Subcategory', 'Model']
+Model Details_0 = ['ID Product', 'Brand', 'Brand Type', 'Price,Dollars', 'Price Range,High Low', 'Price Range,Numeric', 'Product,Cost', 'Product,Description', 'Product Name', 'Product,Weight', 'Product,Weight,Units']
+Shipment_Related_0 = ['Shipments', 'Shipped Date, Simple', 'Delivered Date, Simple', 'Est. Delivery Date, Simple']
+Store_0 = ['Store,Business,Region', 'Store,Business,Sub Region', 'Store,Country', 'Store,State,Province', 'Store,City', 'Store,Postal,Code', 'Store Name']
+Customer_0 = ['Customer,Business,Region', 'Customer,Business,Sub Region', 'Customer,Country', 'Customer,State,Province', 'Customer,City', 'Customer,Postal,Code', 'Full,Name']
+Customer, Postal Code Details_0 = ['Customer,Postal,Code,Population', 'Customer,Postal,Code,Latitude', 'Customer,Postal,Code,Longitude', 'Customer,Postal,GIS Point']
+
+[CHILD ELEMENTS WITH SYMBOL]
+root_0 = {'Filters and Variables' : 'gliph', 'Measure Groups' : 'gliph', 'Dimensions' : 'gliph'}
+Filters and Variables_0 = {'Product Filter' : 'funnel', 'Accessories' : 'funnel', 'Discontinued' : 'funnel', 'Store Name' : 'funnel', 'Web Store' : 'funnel', 'Store Front' : 'funnel', 'Geography, Customer' : 'gliph', 'Geography, Store' : 'gliph'}
+Measure Groups_0 = {'Sales' : 'gliph', 'Shipments' : 'gliph'}
+Sales_0 = {'Revenue Per,Sq. Ft.' : 'ruler', 'Revenue Local Per SQ. M.' : 'ruler', 'Cost of Goods,Local Currency' : 'ruler', 'Cost of Goods' : 'ruler', 'Discount,Local Currency' : 'ruler', 'Discount' : 'ruler', 'Gross Profit,Local Currency' : 'ruler', 'Gross Profit' : 'ruler', 'MSRP,Local Currency' : 'ruler', 'MSRP' : 'ruler', 'Quantity,Sold' : 'ruler', 'Revenue,Local Currency' : 'ruler', 'Revenue' : 'ruler', 'Sale Unit(s)' : 'ruler'}
+Shipments_0 = {'Days,Delayed' : 'ruler', 'Shipment Unit(s)' : 'ruler'}
+Geography, Customer_0 = {'Customer,Continental,United States' : 'funnel', 'Customer,European Union' : 'funnel'}
+Geography, Store_0 = {'Store,Continental,United States' : 'funnel', 'Store,European Union' : 'funnel'}
+Dimensions_0 = {'Sales_Related' : 'gliph', 'Product' : 'gliph', 'Shipment_Related' : 'gliph', 'Store' : 'gliph', 'Customer' : 'gliph'}
+Sales_Related_0 = {'Transaction Date, Simple', 'Transaction Date : 'gliph', 'Components' : 'gliph', 'Purchase' : 'gliph'}
+Product_0 = {'Product,Category' : 'abc', 'Product,Subcategory' : 'abc', 'Model' : 'abc'}
+Model Details_0 = {'ID Product' : 'abc', 'Brand' : 'abc', 'Brand Type' : 'abc', 'Price,Dollars' : 'abc', 'Price Range,High Low' : 'abc', 'Price Range,Numeric' : 'abc', 'Product,Cost' : 'abc', 'Product,Description' : 'abc', 'Product Name' : 'abc', 'Product,Weight' : 'abc', 'Product,Weight,Units' : 'abc'}
+Shipment_Related_0 ={'Shipments' : 'gliph', 'Shipped Date, Simple' : 'gliph', 'Delivered Date, Simple' : 'gliph', 'Est. Delivery Date, Simple' : 'gliph'}
+Store_0 = {'Store,Business,Region' : 'abc', 'Store,Business,Sub Region' : 'abc', 'Store,Country' : 'bulb', 'Store,State,Province' : 'bulb', 'Store,City' : 'bulb', 'Store,Postal,Code' : 'bulb', 'Store Name' : 'abc'}
+Customer_0 = {'Customer,Business,Region' : 'abc', 'Customer,Business,Sub Region' : 'abc', 'Customer,Country' : 'bulb', 'Customer,State,Province' : 'bulb', 'Customer,City' : 'bulb', 'Customer,Postal,Code' : 'bulb', 'Full,Name' : 'abc'}
+Customer, Postal Code Details_0 = {'Customer,Postal,Code,Population' : 'abc', 'Customer,Postal,Code,Latitude' : 'bulb', 'Customer,Postal,Code,Longitude' : 'bulb', 'Customer,Postal,GIS Point' : 'bulb'}

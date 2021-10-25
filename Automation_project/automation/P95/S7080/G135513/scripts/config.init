@@ -1,0 +1,13 @@
+nodeid unxrh7
+httpport 36264
+wfcontext /ibi_apps
+mrid autobasuser01
+mrpass
+mriddev autodevuser01
+mrpassdev
+browser Firefox
+browser_driver D:\chromedriver.exe
+project_id P95
+suite_id S7080
+group_id G135513
+suite_type active

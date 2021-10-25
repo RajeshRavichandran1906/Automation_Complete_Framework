@@ -1,0 +1,19 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 51364
+wfcontext /ibi_apps
+mrid autoadmuser10
+mrpass 
+mriddev autodevuser01
+mrpassdev 
+clientid bigscm23
+browser chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S29835
+group_id G784453
+group_name Banners area
+suite_type homepage

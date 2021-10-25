@@ -1,0 +1,79 @@
+[DEFAULT]
+
+[pageview]
+portal title textbox = 0
+width % textbox = 0
+alignment % textbox = 2
+broadcast height for embedding textbox = 1
+target origin textbox = 1
+width % combobox = 0
+width unit % combobox = 1
+alignment % combobox = 2
+page height mode combobox = 0
+default page combobox = 0
+
+[page]
+title textbox = 0
+top textbox = 0
+bottom textbox = 1
+left textbox = 4
+right textbox = 5
+top unit combobox = 0
+bottom unit combobox = 1
+left unit combobox = 2
+right unit combobox = 3
+comments combobox = 0
+page icon checkbox = 0
+
+[column]
+width textbox = 0
+width unit textbox = 1
+top textbox = 0
+bottom textbox = 1
+left textbox = 2
+right textbox = 3
+width combobox = 0
+width unit combobox = 1
+
+[panel]
+panel title textbox = 0
+accordion title textbox = 0
+tab title textbox = 0
+responsive title textbox = 0
+easy selector title textbox = 0
+easy selector textbox = 0
+height textbox = 2
+content area textbox = 0
+auto refresh textbox = 0
+easy selector auto refresh textbox = 1
+height combobox = 0
+height unit combobox = 1
+text textbox = 0
+panel icons checkbox = 0
+hide new area checkbox = 0
+hide new tab checkbox = 0
+
+[navigation]
+hide new page checkbox = 0
+hide link to page checkbox = 1
+
+[banners]
+height textbox = 0
+height combobox = 0
+height unit combobox = 0
+
+[menu]
+max items textbox = 0
+
+[responsive_properties]
+custom css classes textbox=0
+width textbox=0
+height textbox=1
+margin textbox=2
+shrink textbox=0
+grow textbox=1
+basis textbox=2
+minimum width textbox=0
+minimum height textbox=1
+maximum width textbox=2
+maximum height textbox=3

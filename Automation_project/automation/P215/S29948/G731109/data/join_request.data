@@ -1,0 +1,8 @@
+JOIN INNER 
+   ID_STORE 
+  IN new_retail/facts/wf_retail_sales 
+ TO 
+   ID_STORE 
+  IN new_retail/dimensions/wf_retail_store TAG T02 
+ AS 'Join 1' 
+END

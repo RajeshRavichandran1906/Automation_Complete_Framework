@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 12510
+wfcontext /ibi_apps
+mrid autodevuser40
+mrpass
+browser firefox
+project_id P292
+suite_id S28313
+group_id G671877
+group_name based_on_master_file
+suite_type workbook

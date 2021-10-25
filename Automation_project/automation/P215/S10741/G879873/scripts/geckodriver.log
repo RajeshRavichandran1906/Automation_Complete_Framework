@@ -1,0 +1,293 @@
+1634650524656	geckodriver	INFO	Listening on 127.0.0.1:56931
+1634650527691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileV7HvhG"
+1634650528991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileV7HvhG\\search.json.mozlz4", (void 0)))
+1634650531697	Marionette	INFO	Listening on port 54118
+1634650531925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 909: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTRSN0Y1MTNYQkk3RTYyODUiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTRSN0Y1MTNYQkk3RTYyODUiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTRSN0Y1MTNYQkk3RTYyODUiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTRSN0Y1MTNYQkk3RTYyODUiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 938: unreachable code after return statement
+1634650682948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D line 129 > injectedScript, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 938: unreachable code after return statement
+1634650803671	Marionette	INFO	Stopped listening on port 54118
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634653289696	geckodriver	INFO	Listening on 127.0.0.1:49946
+1634653292711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofilenTSGdY"
+1634653293710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofilenTSGdY\\search.json.mozlz4", (void 0)))
+1634653296053	Marionette	INFO	Listening on port 60920
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1634653296637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 909: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1634653367530	Marionette	INFO	Stopped listening on port 60920
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360014,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360014,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1634653368047	geckodriver	INFO	Listening on 127.0.0.1:57485
+1634653371055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileeXaDU9"
+1634653371966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileeXaDU9\\search.json.mozlz4", (void 0)))
+1634653374163	Marionette	INFO	Listening on port 65438
+1634653374324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 909: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZHNEpaMUpUUTRIUk9IOTE0IiwibW9kZSI6ImFzc2VtYmxlZCJ9, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZHNEpaMUpUUTRIUk9IOTE0IiwibW9kZSI6ImFzc2VtYmxlZCJ9, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZHNEpaMUpUUTRIUk9IOTE0IiwibW9kZSI6ImFzc2VtYmxlZCJ9, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZHNEpaMUpUUTRIUk9IOTE0IiwibW9kZSI6ImFzc2VtYmxlZCJ9, line 938: unreachable code after return statement
+1634653525202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D line 129 > injectedScript, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 938: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 909: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828 line 129 > injectedScript, line 636: unreachable code after return statement
+1634653686579	Marionette	INFO	Stopped listening on port 65438
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634653784939	geckodriver	INFO	Listening on 127.0.0.1:61279
+1634653787972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileRO8rvy"
+1634653788969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileRO8rvy\\search.json.mozlz4", (void 0)))
+1634653791132	Marionette	INFO	Listening on port 54094
+1634653791230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 909: unreachable code after return statement
+1634653814001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+openPromptSync@resource://gre/modules/Prompter.jsm:1116:17
+confirm@resource://gre/modules/Prompter.jsm:1441:10
+window.onerror@http://unxrh7.ibi.com:12410/ibi_apps/common/javascript/S668_16345147401F/ibiJSTrace.js:119:10
+JavaScript error: http://unxrh7.ibi.com:12410/ibi_apps/ibx/resources/S668_16345147401F/etc/jquery/jquery.js, line 894: InternalError: too much recursion
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D line 129 > injectedScript, line 636: unreachable code after return statement
+1634653975560	Marionette	INFO	Stopped listening on port 54094
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 6340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360014,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370004,name=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370004,name=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360014,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebRenderBridge::Msg_SetDisplayList) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70008,name=PWebRenderBridge::Msg_SetFocusTarget) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70004,name=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70004,name=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1634653976516	geckodriver	INFO	Listening on 127.0.0.1:65478
+1634653979555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileknVD9I"
+1634653980472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileknVD9I\\search.json.mozlz4", (void 0)))
+1634653982722	Marionette	INFO	Listening on port 65133
+1634653982773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1634653990175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D, line 909: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZUQkw3MTIyNVNTTEpSOTAiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZUQkw3MTIyNVNTTEpSOTAiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZUQkw3MTIyNVNTTEpSOTAiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?is508=false&item=IBFS%3A%2FWFC%2FRepository%2FP215_S31921%2FG875470&BIDrand=28718&tool=framework&startlocation=IBFS%3A%2FWFC%2FRepository%2FP215_S31921&startUpConditions=eyJwcmVmaXgiOiJwcmV2aWV3LUtVWTZUQkw3MTIyNVNTTEpSOTAiLCJtb2RlIjoiYXNzZW1ibGVkIn0%3D, line 938: unreachable code after return statement
+1634654145064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?tool=framework&item=IBFS:/WFC/Repository/P215_S31921/G875470&startUpConditions=eyJtb2RlIjoiYXNzZW1ibGUifQ%3D%3D line 129 > injectedScript, line 636: unreachable code after return statement
+1634654166543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 665: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 724: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 728: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/run.bip?BIP_REQUEST_TYPE=BIP_RUN&BIP_folder=IBFS:/WFC/Repository/P215_S31921/G875470&BIP_item=c9953828, line 938: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 636: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 695: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 699: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828, line 909: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:12410/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953828 line 129 > injectedScript, line 636: unreachable code after return statement
+1634654325081	Marionette	INFO	Stopped listening on port 65133
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2616, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1635167899162	geckodriver	INFO	Listening on 127.0.0.1:57705
+1635167902181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileYawWxX"
+1635167903714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileYawWxX\\search.json.mozlz4", (void 0)))
+1635167906602	Marionette	INFO	Listening on port 57714
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635167907009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635167913819	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 362: unreachable code after return statement
+1635167984210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470 line 129 > injectedScript, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 362: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex line 129 > injectedScript, line 4647: unreachable code after return statement
+1635168029611	Marionette	INFO	Stopped listening on port 57714
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635168266922	geckodriver	INFO	Listening on 127.0.0.1:55202
+1635168269912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofilesthgqt"
+1635168270709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofilesthgqt\\search.json.mozlz4", (void 0)))
+1635168272587	Marionette	INFO	Listening on port 55210
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1635168273104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 362: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 362: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex line 129 > injectedScript, line 4647: unreachable code after return statement
+1635168392206	Marionette	INFO	Stopped listening on port 55210
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635171126167	geckodriver	INFO	Listening on 127.0.0.1:57424
+1635171129150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileiyjPWa"
+1635171130162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileiyjPWa\\search.json.mozlz4", (void 0)))
+1635171132368	Marionette	INFO	Listening on port 57432
+1635171132875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 362: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1635171580218	geckodriver	INFO	Listening on 127.0.0.1:54326
+1635171583221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileUkz1h0"
+1635171584160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rravicha\\AppData\\Local\\Temp\\rust_mozprofileUkz1h0\\search.json.mozlz4", (void 0)))
+1635171586457	Marionette	INFO	Listening on port 54335
+1635171586572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470, line 362: unreachable code after return statement
+1635171665758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?tool=framework&master=ibisamp/car&item=IBFS:/WFC/Repository/P215_S31921/G875470 line 129 > injectedScript, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 4647: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 49: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 151: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex, line 362: unreachable code after return statement
+JavaScript warning: http://unxrh7.ibi.com:50664/ibi_apps/designer?&item=IBFS:/WFC/Repository/P215_S31921/G875470/c9953592.fex line 129 > injectedScript, line 4647: unreachable code after return statement
+1635171709233	Marionette	INFO	Stopped listening on port 54335
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

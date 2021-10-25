@@ -1,0 +1,17 @@
+pkgname wf053116b
+confid 486
+nodeid wfinst01
+httpport 8080
+wfcontext /ibi_apps
+mrid autodevuser48
+mrpass 
+mrid01 autodevuser48
+mrpass01 
+clientid bigscm23
+browser Firefox
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10660_visual_1
+suite_type visualization

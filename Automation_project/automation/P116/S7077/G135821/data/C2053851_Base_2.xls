@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="I08"><NumberFormat ss:Format="0"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="20" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">Category</Data></Cell>
+<Cell><Data ss:Type="String">Product ID</Data></Cell>
+<Cell><Data ss:Type="String">Product</Data></Cell>
+<Cell><Data ss:Type="String">State</Data></Cell>
+<Cell><Data ss:Type="String">Unit Sales</Data></Cell>
+<Cell><Data ss:Type="String">Dollar Sales</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">32237</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">420439</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">19698</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">248356</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">77344</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">978340</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">74572</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">917737</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15358</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">174344</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">45355</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">595069</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">25363</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">332486</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29413</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">378412</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">47064</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">570391</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">43300</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">549366</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">41029</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">497234</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">30157</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">376754</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">32360</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">401944</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14651</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">187901</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16734</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">203435</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">19339</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">233292</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14382</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">177940</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15785</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">204828</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15349</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">184119</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

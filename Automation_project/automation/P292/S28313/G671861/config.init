@@ -1,0 +1,24 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autodevuser01
+mrpass
+mriddev autodevuser01
+mrpassdev 
+mridbas autobasuser01
+mrpassbas
+mridadv autoadvuser01
+mrpassadv
+clientid bigscm23
+browser chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S19901
+group_id G671861
+group_name Thumbnail mode for resource tree
+reference_folder Retail Samples->Portal->Small Widgets
+suite_type pagedesigner

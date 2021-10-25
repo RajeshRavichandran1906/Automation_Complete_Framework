@@ -1,0 +1,25 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 11264
+wfcontext /ibi_apps
+mrid autodevuser95
+mrpass 
+clientid unxrh7
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+envpath unxrh7
+dompath bigscm64->Domains 
+dataserverpath bigscm64->Data Servers->EDASERVE->Applications->ibisamp
+domainpath bigscm64->Domains->S9100
+publicdomainpath bigscm64->Domains->Public
+webapppath bigscm64->Web Applications->baseapp
+projectpath bigscm64->Projects
+filepath1 bigscm64->Domains->S9100->C2287718
+filepath2 bigscm64->Domains->S9100->C2287637
+filepath3 bigscm64->Domains->S9100->BIPAutodrill
+filepath4 bigscm64->Domains->S9100->BIPInfominireport
+project_id P292
+suite_id S10032_G156796

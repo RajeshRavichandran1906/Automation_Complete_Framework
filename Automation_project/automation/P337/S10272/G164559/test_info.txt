@@ -1,0 +1,7 @@
+test=automation\P337\S10272\G164559\StartUpRemoteAgent1
+test=automation\P337\S10272\G164559\C2292389
+test=automation\P337\S10272\G164559\C2292391
+test=automation\P337\S10272\G164559\C2292390
+test=automation\P337\S10272\G164559\C2292392
+test=automation\P337\S10272\G164559\C2292393
+test=automation\P337\S10272\G164559\CloseAndCleanUpRemote

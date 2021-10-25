@@ -1,0 +1,19 @@
+pkgname wf053116b
+confid 486
+nodeid unxrh7
+httpport 51364
+wfcontext /ibi_apps
+mrid autodevuser88
+mrpass 
+mridadv autoadvuser13
+mrpassadv 
+clientid bigscm23
+browser chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S19901
+group_id G671754
+group_name portal customization
+suite_type homepage

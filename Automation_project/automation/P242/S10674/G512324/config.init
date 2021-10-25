@@ -1,0 +1,10 @@
+confid 795
+nodeid unxrh7
+httpport 50164
+wfcontext /ibi_apps
+mrid autoadmuser08
+mrpass 
+mrdevid autodevuser91
+mrdevpass 
+browser Firefox
+wf_folder_path Domains->S9100

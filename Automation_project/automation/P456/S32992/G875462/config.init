@@ -1,0 +1,17 @@
+nodeid ibicloudqa11.pool1.dev-aws.ibi.com
+httpport 
+wfcontext /webfocus
+mriddev abc_1@ibi.com
+mrpassdev password
+mriddev1 abc_2@ibi.com
+mrpassdev1 password
+mriddev2 abc_3@ibi.com
+mrpassdev2 password
+mriddev3 abc_4@ibi.com
+mrpassdev3 password
+mriddev4 abc_5@ibi.com
+mrpassdev4 password
+browser Chrome
+project_id P456
+suite_id S32992
+group_id G875456

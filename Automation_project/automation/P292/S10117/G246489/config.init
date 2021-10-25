@@ -1,0 +1,17 @@
+pkgname wf022418a
+confid 718
+nodeid unxrh7
+httpport 37164
+wfcontext /ibi_apps
+mrid autodevuser200
+mrpass 
+clientid unxrh7
+browser Chrome
+project_id P292_S10117_G246489
+suite_id 8201MGA
+suite_id2 8201M_SP
+masterAppFolder county_data
+masterFile county_fips_2
+approot \\ibirisc2\bipgqashare\qaauto_apps\map_temp
+#\\ibirisc2\bipgqashare\wfc_webapps\P292_8201M
+release ['8201MGA', '8201M_SP']

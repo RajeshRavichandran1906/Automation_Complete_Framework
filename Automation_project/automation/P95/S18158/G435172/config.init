@@ -1,0 +1,11 @@
+nodeid unxrh7
+httpport 51364
+wfcontext /ibi_apps
+mrid autodevuser01
+mrpass
+browser Chrome
+browser_driver D:\chromedriver.exe
+project_id P95
+suite_id S18158
+group_id G435172
+suite_type active

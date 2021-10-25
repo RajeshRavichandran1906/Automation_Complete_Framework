@@ -1,0 +1,12 @@
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autodevuser95
+mrpass
+browser chrome
+browser_driver D:\chromedriver.exe
+project_id P292
+suite_id S28313
+group_id G671908
+group_name Filters
+suite_type Report

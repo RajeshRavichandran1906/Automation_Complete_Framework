@@ -1,0 +1,41 @@
+{
+	"project":{
+			"P452": "Designer - Unified Tool"
+			},
+	"suite":{
+			"S31923": "8207 New Features and product changes for existing functionality"
+			},
+	"section":{
+			"G856479": "Work Flows"
+			},
+	"cases":{
+	        "C9336692": "User creates a V5 Portal, create a DF, edits the DF and runs content from portal _1A",
+	        "C9929884": "User creates a V5 Portal, create a DF, edits the DF and runs content from portal _1B",
+	        "C9929996": "User creates a V5 Portal, create a DF, edits the DF and runs content from portal _1C"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000",
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

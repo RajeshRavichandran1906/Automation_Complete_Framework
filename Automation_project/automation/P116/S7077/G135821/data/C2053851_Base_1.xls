@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/tr/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>AHTML</LastAuthor>
+<Created>2005-09-16T14:17:47Z</Created>
+<Version>11.6360</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+,<Styles>
+,<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"/>
+<Borders/>
+<Font/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+,<Style ss:ID="I08"><NumberFormat ss:Format="0"/></Style>
+,</Styles>
+,<Worksheet ss:Name="AHTML">
+<Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="108" x:FullColumns="1"
+x:FullRows="1">
+,<Row>
+<Cell><Data ss:Type="String">Category</Data></Cell>
+<Cell><Data ss:Type="String">Product ID</Data></Cell>
+<Cell><Data ss:Type="String">Product</Data></Cell>
+<Cell><Data ss:Type="String">State</Data></Cell>
+<Cell><Data ss:Type="String">Unit Sales</Data></Cell>
+<Cell><Data ss:Type="String">Dollar Sales</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">47647</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">606079</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">22482</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">279373</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">19730</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">256539</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">25947</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">317389</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">32237</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">420439</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">19698</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">248356</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">32596</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">419143</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">25947</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">322378</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">22353</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">279644</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">36321</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">455365</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C141</Data></Cell>
+<Cell><Data ss:Type="String">Espresso</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">24028</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">301538</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">141403</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">1745509</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">74623</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">926052</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">71123</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">889887</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">73707</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">907365</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">77344</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">978340</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">74572</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">917737</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">77347</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">966981</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">73671</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">928026</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">64824</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">820584</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">76932</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">938245</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C142</Data></Cell>
+<Cell><Data ss:Type="String">Latte</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">72517</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">924896</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">46533</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">586298</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">12386</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">158995</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">24143</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">317027</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">27522</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">352161</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15358</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">174344</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">17041</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">208756</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">21599</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">274812</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Coffee</Data></Cell>
+<Cell><Data ss:Type="String">C144</Data></Cell>
+<Cell><Data ss:Type="String">Capuccino</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">24635</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">309197</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">47688</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">608423</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">22378</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">283874</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">24543</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">311836</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">22863</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">273420</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">45355</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">595069</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">25363</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">332486</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">37602</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">481953</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">22991</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">290811</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">26373</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">315399</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">33170</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">418398</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F101</Data></Cell>
+<Cell><Data ss:Type="String">Scone</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">25088</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">304445</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">43760</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">535548</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">46214</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">589355</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">40606</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">511597</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">43639</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">555231</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29413</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">378412</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">47064</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">570391</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29188</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">368077</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">51964</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">642259</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">35349</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">438889</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">27504</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">345238</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F102</Data></Cell>
+<Cell><Data ss:Type="String">Biscotti</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">26676</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">328320</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">131263</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">1624541</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">45847</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">551489</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">50175</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">602076</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">53782</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">661806</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">43300</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">549366</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">41029</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">497234</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">48941</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">613871</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">50518</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">622095</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">52499</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">638477</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">46941</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">587887</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Food</Data></Cell>
+<Cell><Data ss:Type="String">F103</Data></Cell>
+<Cell><Data ss:Type="String">Croissant</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">65759</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">801060</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">59763</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">761325</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">31728</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">392967</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">31628</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">409466</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29746</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">355447</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">30157</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">376754</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">32360</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">401944</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">27040</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">343852</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">27409</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">349300</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">27100</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">337790</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29521</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">366337</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G100</Data></Cell>
+<Cell><Data ss:Type="String">Mug</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">34118</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">427339</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">29743</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">372728</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">17568</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">221827</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15241</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">195526</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">17678</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">227482</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14651</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">187901</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16734</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">203435</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15592</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">195686</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14568</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">178836</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16057</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">209449</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16344</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">194319</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G104</Data></Cell>
+<Cell><Data ss:Type="String">Thermos</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15905</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">198640</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">31709</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">401680</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">13691</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">169908</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16968</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">217204</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16968</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">217254</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">19339</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">233292</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14382</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">177940</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14614</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">181570</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">12904</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">161352</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">13147</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">171319</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16440</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">204292</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G110</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Grinder</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16372</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">201756</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">31061</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">400130</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15523</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">208209</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16145</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">212057</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">18431</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">232552</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15785</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">204828</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15349</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">184119</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">14807</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">190153</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15313</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">198452</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">15346</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">200694</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16564</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">204897</Data></Cell>
+</Row>
+,<Row>
+<Cell><Data ss:Type="String">Gifts</Data></Cell>
+<Cell><Data ss:Type="String">G121</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Pot</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">16371</Data></Cell>
+<Cell ss:StyleID="I08"><Data ss:Type="Number">213494</Data></Cell>
+</Row>
+,</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

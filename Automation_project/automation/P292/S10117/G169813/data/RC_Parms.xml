@@ -1,0 +1,1741 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>webqa</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <LastPrinted>2007-07-19T18:33:13Z</LastPrinted>
+  <Created>2007-06-06T15:23:22Z</Created>
+  <LastSaved>2007-09-28T18:47:55Z</LastSaved>
+  <Company>IBI</Company>
+  <Version>11.6360</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="file:///\\ibiprda\ibi\apps\MSOffice\MSOffice2003wSP1\"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9345</WindowHeight>
+  <WindowWidth>11340</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>60</WindowTopY>
+  <TabRatio>764</TabRatio>
+  <ActiveSheet>12</ActiveSheet>
+  <FirstVisibleSheet>8</FirstVisibleSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21" ss:Name="Hyperlink">
+   <Font ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s28" ss:Parent="s21">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Font x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s30" ss:Parent="s21">
+   <Font x:Family="Swiss" ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="RC_Wizard">
+  <Table ss:ExpandedColumnCount="18" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="88.5"/>
+   <Column ss:Index="3" ss:Width="66.75"/>
+   <Column ss:Index="6" ss:Width="51"/>
+   <Column ss:Index="8" ss:Width="57.75"/>
+   <Column ss:Width="43.5"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Width="72"/>
+   <Column ss:Index="15" ss:Width="60"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="117.75"/>
+   <Row ss:StyleID="s22">
+    <Cell><Data ss:Type="String">Description</Data></Cell>
+    <Cell><Data ss:Type="String">Interval</Data></Cell>
+    <Cell><Data ss:Type="String">Days</Data></Cell>
+    <Cell><Data ss:Type="String">Format</Data></Cell>
+    <Cell><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell><Data ss:Type="String">Password</Data></Cell>
+    <Cell><Data ss:Type="String">Method</Data></Cell>
+    <Cell><Data ss:Type="String">Lib_Access</Data></Cell>
+    <Cell><Data ss:Type="String">Lib_Exp</Data></Cell>
+    <Cell><Data ss:Type="String">Lib_Exp_No</Data></Cell>
+    <Cell><Data ss:Type="String">Lib_Exp_Aft</Data></Cell>
+    <Cell><Data ss:Type="String">Priority</Data></Cell>
+    <Cell><Data ss:Type="String">Notify</Data></Cell>
+    <Cell><Data ss:Type="String">Reply_Addr</Data></Cell>
+    <Cell><Data ss:Type="String">Subject</Data></Cell>
+    <Cell><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell><Data ss:Type="String">Enabled</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Caster01 to Library</Data></Cell>
+    <Cell><Data ss:Type="String">hour(s)</Data></Cell>
+    <Cell><Data ss:Type="String">MONSATSUN</Data></Cell>
+    <Cell><Data ss:Type="String">COMT</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">Library</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">week(s)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:NONE@ibi.com"><Data ss:Type="String">NONE@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Test Subject</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:andrey_damsky@ibi.com"><Data
+      ss:Type="String">andrey_damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Wizard_Val">
+  <Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="88.5"/>
+   <Column ss:Index="4" ss:Width="66.75"/>
+   <Column ss:Index="9" ss:Width="57.75"/>
+   <Column ss:Width="43.5"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Index="13" ss:Width="78.75" ss:Span="7"/>
+   <Column ss:Index="24" ss:Width="60"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="117.75"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="80.25"/>
+   <Column ss:Width="74.25"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Access</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Exp</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Exp_No</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Exp_Aft</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder_Out</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">To_Addr</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">From_Addr</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Addr_Email</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Email</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Inline_Msg</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Addr</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain_Loc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder_Loc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Report_Loc</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">My_Report_YN</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Caster01 to Library</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">COMT</Data></Cell>
+    <Cell><Data ss:Type="String">osdqa1</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">Library</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">week(s)</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:NONE@ibi.com"><Data ss:Type="String">NONE@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Test Subject</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:andrey_damsky@ibi.com"><Data
+      ss:Type="String">andrey_damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">myrpt1 to MR</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">COMMA</Data></Cell>
+    <Cell><Data ss:Type="String">osdqa1</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">MR</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">myrpt1 Folder</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Never</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:Index="25" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">myrpt1 to Email</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">DOC</Data></Cell>
+    <Cell><Data ss:Type="String">osdqa1</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Single Address</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Caster1@ibi.com"><Data ss:Type="String">Caster1@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Caster2@ibi.com"><Data ss:Type="String">Caster2@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Caster3@ibi.com"><Data ss:Type="String">Caster3@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">No Subject Today</Data></Cell>
+    <Cell><Data ss:Type="String">Sample Report</Data></Cell>
+    <Cell><Data ss:Type="String">Your report is ready</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Never</Data></Cell>
+    <Cell ss:Index="27"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_DL">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="99"/>
+   <Column ss:Index="4" ss:Width="67.5"/>
+   <Column ss:StyleID="s25" ss:Width="120.75"/>
+   <Column ss:StyleID="s25" ss:AutoFitWidth="0"/>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Access</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Destination</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL Printer/Private</Data></Cell>
+    <Cell><Data ss:Type="String">Private</Data></Cell>
+    <Cell><Data ss:Type="String">Printer</Data></Cell>
+    <Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+    <Cell><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell><Data ss:Type="String">28d1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL Printer/Public</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">Printer</Data></Cell>
+    <Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">ITALY</Data></Cell>
+    <Cell><Data ss:Type="String">28d1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">JAPAN</Data></Cell>
+    <Cell><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL E-mail/Private</Data></Cell>
+    <Cell><Data ss:Type="String">Private</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster1@ibi.com"><Data
+      ss:Type="String">report_caster1@ibi.com</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">ITALY</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster2@ibi.com"><Data
+      ss:Type="String">report_caster2@ibi.com</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL E-mail/Public</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster1@ibi.com"><Data
+      ss:Type="String">report_caster1@ibi.com</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_AL">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="99"/>
+   <Column ss:Width="54"/>
+   <Column ss:Width="67.5" ss:Span="1"/>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Group</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">User</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group, Users and Bursts</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #3</Data></Cell>
+    <Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group and Users</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #2</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>0</ActiveRow>
+     <RangeSelection>R1C1:R9C5</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Applet_FTP">
+  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1">
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Directory</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">User</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pwd</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_List</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="20" ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:Index="24" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s30"/>
+   </Row>
+   <Row ss:Index="7">
+    <Cell><Data ss:Type="String">WF Caster01 to FTP</Data></Cell>
+    <Cell><Data ss:Type="String">once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">New Task Description</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell><Data ss:Type="String">My File Name</Data></Cell>
+    <Cell><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">caster</Data></Cell>
+    <Cell><Data ss:Type="String">caster01</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">FTP</Data></Cell>
+    <Cell><Data ss:Type="String">digorf</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">FTPhome</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">webqa</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">Distribution List:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="ftp://ftp01_xls/"><Data ss:Type="String">ftp_doc_b</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">FTP test</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Caster01 to FTP</Data></Cell>
+    <Cell><Data ss:Type="String">once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">New Task Description</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell><Data ss:Type="String">My File Name</Data></Cell>
+    <Cell><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">AA - Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster01</Data></Cell>
+    <Cell><Data ss:Type="String">DOC</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">FTP</Data></Cell>
+    <Cell><Data ss:Type="String">digorf</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">FTPhome</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">webqa</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">Distribution List:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="ftp://ftp01_xls/"><Data ss:Type="String">ftp_doc_b</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">FTP test</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Applet_Lib">
+  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="88.5"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Email</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">A_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">A_List</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exp</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Comp</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_Name</Data></Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">Caster03 to Library</Data></Cell>
+    <Cell><Data ss:Type="String">once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">New Task Description</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell><Data ss:Type="String">My File Name</Data></Cell>
+    <Cell><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">AA - Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster03</Data></Cell>
+    <Cell><Data ss:Type="String">PDF</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">Library</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Public</Data></Cell>
+    <Cell ss:Index="23"><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lib test</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WF Caster03 to Library</Data></Cell>
+    <Cell><Data ss:Type="String">once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">New Task Description</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">caster</Data></Cell>
+    <Cell><Data ss:Type="String">caster03</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">Library</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Public</Data></Cell>
+    <Cell ss:Index="23"><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lib test</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <LeftColumnVisible>6</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Applet_Email">
+  <Table ss:ExpandedColumnCount="34" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="102"/>
+   <Column ss:Width="41.25"/>
+   <Column ss:Width="27.75"/>
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="69.75"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mail_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">To_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">From_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Attachment</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Inline_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_Name</Data></Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">Caster02 to Email</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">caster02</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">AA - Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster02</Data></Cell>
+    <Cell><Data ss:Type="String">PDF</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:ibismtp@ibi.com"><Data ss:Type="String">ibismtp</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">Single Address:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Mail Packet</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">NO</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Notification of Mail Packet</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">NO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WF Caster01 to Email</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">caster01</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">caster</Data></Cell>
+    <Cell><Data ss:Type="String">caster01</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:ibismtp@ibi.com"><Data ss:Type="String">ibismtp</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">Single Address:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Mail Packet</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">NO</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Notification of Mail Packet</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">NO</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Applet_MR">
+  <Table ss:ExpandedColumnCount="28" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="88.5"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MRFolderOut</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_Name</Data></Cell>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Caster03 to MR</Data></Cell>
+    <Cell><Data ss:Type="String">once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">New Task Description</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell><Data ss:Type="String">My File Name</Data></Cell>
+    <Cell><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">AA - Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster03</Data></Cell>
+    <Cell><Data ss:Type="String">PDF</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">Managed Reporting</Data></Cell>
+    <Cell><Data ss:Type="String">STD REPORT TO MR</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">MR test</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="mailto:report_caster@ibi.com"><Data
+      ss:Type="String">report_caster@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s29"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>17</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Applet">
+  <Table ss:ExpandedColumnCount="35" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="82.5"/>
+   <Column ss:Width="41.25"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="101.25"/>
+   <Column ss:Width="99.75"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="63"/>
+   <Column ss:Index="15" ss:Width="60.75"/>
+   <Column ss:Index="18" ss:Width="29.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Index="21" ss:Width="75"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="73.5"/>
+   <Column ss:Width="75.75"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="101.25"/>
+   <Column ss:Index="29" ss:Width="59.25"/>
+   <Column ss:Width="116.25"/>
+   <Column ss:Width="74.25"/>
+   <Column ss:Width="116.25" ss:Span="1"/>
+   <Column ss:Index="35" ss:Width="75"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Worksheet</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mail_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">To_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">From_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Attachment</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Inline_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_Name</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_MR</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_Email</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_Email</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_Lib</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_Lib</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_FTP</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">RC_Applet_FTP</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:Index="19" ss:StyleID="s21"/>
+    <Cell ss:Index="22" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:Index="30" ss:StyleID="s21"/>
+    <Cell ss:Index="32" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="19" ss:StyleID="s21"/>
+    <Cell ss:Index="22" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:Index="30" ss:StyleID="s21"/>
+    <Cell ss:Index="32" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="30" ss:StyleID="s21"/>
+    <Cell ss:Index="32" ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:Index="19">
+    <Cell><Data ss:Type="String">WF caster03 to Email</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Once</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">ON</Data></Cell>
+    <Cell><Data ss:Type="String">caster03</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">My Saved File</Data></Cell>
+    <Cell><Data ss:Type="String">No Category</Data></Cell>
+    <Cell><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">caster</Data></Cell>
+    <Cell><Data ss:Type="String">caster03</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:ibismtp@ibi.com"><Data ss:Type="String">ibismtp</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">Single Address:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Mail Packet</Data></Cell>
+    <Cell ss:Index="27"><Data ss:Type="String">NO</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Notification of Mail Packet</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Andrey_Damsky@ibi.com"><Data
+      ss:Type="String">Andrey_Damsky@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">NO</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_Mail_Packet">
+  <Table ss:ExpandedColumnCount="34" ss:ExpandedRowCount="12" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="58.5"/>
+   <Column ss:Index="5" ss:Width="93.75"/>
+   <Column ss:Width="99.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Index="10" ss:Width="62.25"/>
+   <Column ss:Width="63"/>
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="55.5"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Index="17" ss:Width="29.25"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Interval</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Days</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Enabled</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Description</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Task_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">File_or_URL</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">SaveAs</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lib_Cat</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Domain</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Folder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">MR_Fex</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Format</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Rep_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Exec_ID</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mail_Server</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">D_Type</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">To_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">From_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Address</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Attachment</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Inline_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Priority</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Notification</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Reply_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Subject_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Brief_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Full_Notify</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_YN</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">ZIP_Name</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mail Packet</Data></Cell>
+    <Cell><Data ss:Type="String">Once</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">OFF</Data></Cell>
+    <Cell><Data ss:Type="String">task1 pre- and post-</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">rcqatest_brok0102.htm</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">rcqatest</Data></Cell>
+    <Cell><Data ss:Type="String">brok0102</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:ibismtp@ibi.com"><Data ss:Type="String">ibismtp@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Email</Data></Cell>
+    <Cell><Data ss:Type="String">Distribution List:</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:Report_Caster@ibi.com"><Data
+      ss:Type="String">mail02</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@ibi.com"><Data ss:Type="String">digorf@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:digorf@.ibi.com"><Data ss:Type="String">digorf@.ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Mail Packet</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="String">NO</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">On Error</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:michael_mirkin@ibi.com"><Data
+      ss:Type="String">michael_mirkin@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">Notification of Mail Packet</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:michael_mirkin@ibi.com"><Data
+      ss:Type="String">michael_mirkin@ibi.com</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="mailto:michael_mirkin@ibi.com"><Data
+      ss:Type="String">michael_mirkin@ibi.com</Data></Cell>
+    <Cell><Data ss:Type="String">NO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">task2 MRE</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">pdf016.pdf</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 5</Data></Cell>
+    <Cell><Data ss:Type="String">QA Fexes</Data></Cell>
+    <Cell><Data ss:Type="String">pdf016</Data></Cell>
+    <Cell><Data ss:Type="String">PDF</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:Index="5"><Data ss:Type="String">task3 URL</Data></Cell>
+    <Cell><Data ss:Type="String">URL</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">http://www.weather.com/weather/local/10121</Data></Cell>
+    <Cell><Data ss:Type="String">weather.htm</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">task 4 bad fex</Data></Cell>
+    <Cell><Data ss:Type="String">WF Server Procedure</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">rcqatest_param.htm</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Applications</Data></Cell>
+    <Cell><Data ss:Type="String">rcqatest</Data></Cell>
+    <Cell><Data ss:Type="String">param</Data></Cell>
+    <Cell><Data ss:Type="String">HTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:Index="5"><Data ss:Type="String">task5 file</Data></Cell>
+    <Cell><Data ss:Type="String">File</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">\\bigport01\rels_development\764\WebFOCUS\071607_all\wf071607a\package.data</Data></Cell>
+    <Cell><Data ss:Type="String">package.txt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="5" ss:StyleID="s31"><Data ss:Type="String">task6 MRE burst EXL2K FORMULA</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">caster01.xls</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster01</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">EXL2K FORMULA</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">ON</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">task7 MRE SVG</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">caster06.svg</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes  1 - 10</Data></Cell>
+    <Cell><Data ss:Type="String">caster06</Data></Cell>
+    <Cell><Data ss:Type="String">SVG</Data></Cell>
+    <Cell><Data ss:Type="String">EDASERVE</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:Index="5" ss:StyleID="s31"><Data ss:Type="String">task8 MRE EXCEL Template</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">caster33.xls</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes 31 - 40</Data></Cell>
+    <Cell><Data ss:Type="String">caster33</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">EXL2K TEMPLATE</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">task9 AHTML</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">caster37.htm</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 1</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes 31 - 40</Data></Cell>
+    <Cell><Data ss:Type="String">caster37</Data></Cell>
+    <Cell><Data ss:Type="String">AHTML</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:Index="5" ss:StyleID="s31"><Data ss:Type="String">task10 MRE -PROMPT with List of Values and DEFAULT</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Report</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">caster64.doc</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Caster QA 3</Data></Cell>
+    <Cell><Data ss:Type="String">Fexes 61 - 70</Data></Cell>
+    <Cell><Data ss:Type="String">caster64</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">DOC</Data></Cell>
+    <Cell><Data ss:Type="String">LOCALS</Data></Cell>
+    <Cell><Data ss:Type="String">webqa</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell><Data ss:Type="String">OFF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="5"><Data ss:Type="String">task11 gen_info</Data></Cell>
+    <Cell><Data ss:Type="String">File</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">C:\ibi76_Tomcat\gen_info.htm</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_AL_Applet">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="147.75"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="37.5"/>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Group</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">User</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group, Users and Bursts - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #3</Data></Cell>
+    <Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD AL Group and Users - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">AD AL #2</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">RC Analyticals</Data></Cell>
+    <Cell><Data ss:Type="String">rcuser2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="RC_DL_Applet">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="99"/>
+   <Column ss:Width="37.5"/>
+   <Column ss:Width="40.5"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:Width="120.75"/>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Access</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Method</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Burst</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Destination</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL Printer/Private - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">Private</Data></Cell>
+    <Cell><Data ss:Type="String">Printer</Data></Cell>
+    <Cell><Data ss:Type="String">ENGLAND</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">28d1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL Printer/Public - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">Printer</Data></Cell>
+    <Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">ITALY</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">28d1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">JAPAN</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">28e1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL E-mail/Private - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">Private</Data></Cell>
+    <Cell><Data ss:Type="String">EMail</Data></Cell>
+    <Cell><Data ss:Type="String">FRANCE</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster1@ibi.com"><Data
+      ss:Type="String">report_caster1@ibi.com</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">ITALY</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster2@ibi.com"><Data
+      ss:Type="String">report_caster2@ibi.com</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AD DL E-mail/Public - Applet</Data></Cell>
+    <Cell><Data ss:Type="String">Public</Data></Cell>
+    <Cell><Data ss:Type="String">EMail</Data></Cell>
+    <Cell><Data ss:Type="String">W GERMANY</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="mailto:report_caster1@ibi.com"><Data
+      ss:Type="String">report_caster1@ibi.com</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Login">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="3" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="99"/>
+   <Column ss:Width="96"/>
+   <Row>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Apps_Link</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ReportCaster_Area</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">UID</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Password</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Security</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MR</Data></Cell>
+    <Cell><Data ss:Type="String">RC</Data></Cell>
+    <Cell><Data ss:Type="String">rcadmin1</Data></Cell>
+    <Cell><Data ss:Type="String">plaza1</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="6" ss:StyleID="s25"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

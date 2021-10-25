@@ -1,0 +1,13 @@
+nodeid unxrh7
+httpport 8080
+wfcontext /ibi_apps
+nodeid1 wfqa1
+httpport1 58080
+wfcontext1 /ibi_apps
+jsp_file_directory zand
+jsp_file_name iaTreeTestQA
+browser Chrome
+browser_driver D:\chromedriver.exe
+project_id P416
+suite_id S19473
+suite_type pyunit

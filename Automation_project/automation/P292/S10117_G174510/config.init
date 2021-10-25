@@ -1,0 +1,15 @@
+pkgname 
+confid 
+nodeid 
+httpport 
+wfcontext 
+mrid 
+mrpass 
+clientid 
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir
+project_id 
+suite_id 
+suite_type 

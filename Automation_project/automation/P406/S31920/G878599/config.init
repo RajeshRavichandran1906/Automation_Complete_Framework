@@ -1,0 +1,21 @@
+nodeid wfautoqa02.pool1.dev-aws.ibi.com
+httpport 
+wfcontext /webfocus
+mridauth autocloudadm04@ibi.com
+mrpassauth
+mrid autocloudadm04@ibi.com
+mrpass
+mridadv gs_adv1@ibi.com
+mridadvpass
+mridbas gs_bas1@ibi.com
+mridbaspass
+mridgradm gs_gradm1@ibi.com
+mridgradmpass
+mriddev gs_dev1@ibi.com
+mriddevpass
+mridauth1 gs_aut1@ibi.com
+mrpassauth1
+browser chrome
+project_id P406
+suite_id S31920
+group_id G875689

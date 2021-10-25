@@ -1,0 +1,19 @@
+pkgname wf050517a
+confid 724
+nodeid unxrh7
+httpport 50264
+wfcontext /ibi_apps
+mrid autobasuser02
+mrpass 
+mrid01 autodevuser02
+mrpass01 
+clientid bigscm23
+browser Firefox
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\724
+project_id P292
+suite_id S10032
+group_id G193334
+group_name AHTMLON
+suite_type active

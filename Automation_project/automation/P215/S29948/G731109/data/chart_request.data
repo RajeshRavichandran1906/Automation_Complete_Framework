@@ -1,0 +1,4 @@
+GRAPH FILE new_retail/facts/wf_retail_sales
+-* Created by Info Assist for Graph
+SUM WF_RETAIL_SALES.WF_RETAIL_SALES.REVENUE_US
+BY T02.WF_RETAIL_STORE.STORE_TYPE

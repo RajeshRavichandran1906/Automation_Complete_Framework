@@ -1,0 +1,42 @@
+{
+	"project":{
+			"P215": "00 Smoke Testing and Exploratory Testing"
+			},
+	"suite":{
+			"S29948": "8206 New Features and product changes for existing functionality"
+			},
+	"section":{
+			"G731109": "Designer/IA smoke tests"
+			},
+	"cases":{
+	        "C8792737": "Launch Designer Report, save and restore",
+            "C8792775": "Launch IA Visualization, save and restore",
+            "C9318159": "Chart - Join workflow",
+            "C9332918": "Workbook - Join workflow"
+			},
+	"browser":{
+			"cr": "39"
+			},
+	"configurations":{
+			"291": "37",
+			"292": "38",
+			"293": "39",
+			"294": "40",
+			"295": "41",
+			"296": "42",
+			"883": "147"
+			},
+	"run_mode": {
+			"se": "4"
+			},
+	"release": {
+			"headcont": "6",
+			"8206": "54",
+			"head_gitcont": "1000",
+			"head_git": "998"
+			},
+	"product": {
+			"wf": "1"
+			}
+}
+		

@@ -1,0 +1,20 @@
+pkgname wf052118a
+confid 486
+nodeid unxrh7
+httpport 11864
+wfcontext /ibi_apps
+mrid autoadmuser02
+mrpass 
+mridbas autobasuser08
+mrpassbas 
+mriddev autodevuser82
+mrpassdev 
+clientid bigscm23
+browser Chrome
+browser_driver D:\chromedriver.exe
+repository_type apachederby
+installdir d:\486
+project_id P292
+suite_id S10660
+group_id G169269
+suite_type homepage
